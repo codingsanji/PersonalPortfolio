@@ -1,3 +1,4 @@
+//main entry-point to the application (any code written here will be displayed on every route page created) 
 import { Geist, Geist_Mono } from "next/font/google";
 import "./globals.css";
 
