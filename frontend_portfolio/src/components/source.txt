@@ -1,0 +1,5 @@
+Devfolio background : https://21st.dev/aceternity/sparkles/default
+Typing text in landing page: https://21st.dev/hextaui/typewriter-text/default
+
+I have relied on the following pages for the following components.
+    1. toggle-switch: https://uiverse.io/00Kubi/hard-goose-47
