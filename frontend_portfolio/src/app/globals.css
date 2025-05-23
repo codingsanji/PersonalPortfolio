@@ -1,6 +1,8 @@
 @import "tailwindcss";
 
+
 body{
+    background-color: rgb(13, 0, 37);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
